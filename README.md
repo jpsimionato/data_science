@@ -11,7 +11,7 @@ Hello, I'm João.
 
 My journey into Data Science has started with baby steps when I was a Chemical Engineering student. As a Chemical Engineer I really appreciated the phenomena analysis and I believe that Data Science has a high correlation with this subject. Therefore, now I am starting my road into Data Science with Python.
 
-Nowadays I am a Business Analyst in Falconi, the  biggest brazillian management consulting, and  everyday  I have the opportunity of find out new business and new markets, applying the PDCA method and always giving good solutions to clients. My purpose is to transform companies to a new level with good management practices and excellent problem analysis.  
+Nowadays I am a Business Analyst in Falconi, the  biggest brazillian management consulting, and  everyday  I have the opportunity of finding out new business and new markets, applying the PDCA method and always giving good solutions to clients. My purpose is to transform companies to a new level with good management practices and excellent problem analysis.  
 
 **Background in:** Python, Exploratory Data Analysis.
 
